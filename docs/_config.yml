@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Functional Programming Spring 2018
+markdown: kramdown
+kramdown:
+   auto_ids: true

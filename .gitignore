@@ -1,0 +1,89 @@
+
+# Created by https://www.gitignore.io/api/elm,java,kotlin,haskell,commonlisp
+
+### CommonLisp ###
+*.FASL
+*.fasl
+*.lisp-temp
+*.dfsl
+*.pfsl
+*.d64fsl
+*.p64fsl
+*.lx64fsl
+*.lx32fsl
+*.dx64fsl
+*.dx32fsl
+*.fx64fsl
+*.fx32fsl
+*.sx64fsl
+*.sx32fsl
+*.wx64fsl
+*.wx32fsl
+
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+### Haskell ###
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+.HTF/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Kotlin ###
+# Compiled class file
+
+# Log file
+
+# BlueJ files
+
+# Mobile Tools for Java (J2ME)
+
+# Package Files #
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+
+
+# End of https://www.gitignore.io/api/elm,java,kotlin,haskell,commonlisp
