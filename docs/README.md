@@ -15,9 +15,9 @@ Exclusively web resources:
 All classes are from 8:30 - 12:00.
 
 | Week | Date | Class | Teacher |
-| ---  | ---- | ----- | ------- |
+| ---  | ---: | ----- | ------- |
 |  5 | 29/1 | Linked lists and stacks | Anders |
-|  6 | 5/2  | Recursion and tail recursion | Anders (tentative) |
+|  5 | 2/2  | (All day 08:30-16:00) <br/> Recursion and tail recursion | Anders (tentative) |
 |  6 | 9/2  | Exercise session | - |
 |  8 | 19/2 | Introduction to Lisp | Jens |
 |  8 | 23/2 | Exercise session on Lisp | Jens |
