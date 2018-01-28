@@ -65,4 +65,4 @@ Remember that the assignments above in **bold** are mandatory and is **required*
 # Exam
 You will be examinated orally. You will have to present one of the four major assignments (marked in bold above). So out of the four assignments, you have to pick one. From there we will have a discussion about the course content. You have **10 minutes** to present your assignment. Then we will ask you questions for around 7-10 minutes. We will naturally ask into other topics, but the presentation will be the starting point.
 
-The questions for the exams are published and can be found here: [https://github.com/cphbus-functional-programming/general/blob/master/exam.md](https://github.com/cphbus-functional-programming/general/blob/master/exam.md)
+The questions for the exams will be published. An example from 2017 can be found here: [https://github.com/cphbus-functional-programming/general/blob/master/exam.md](https://github.com/cphbus-functional-programming/general/blob/master/exam.md)
