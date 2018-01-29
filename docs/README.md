@@ -13,7 +13,7 @@ Exclusively web resources:
 
 ## Slides
 
-* (01 Introduction, Stacks, and Lists)[/slides/01 Introduction, Stacks, and Lists.pdf]
+* [01 Introduction, Stacks, and Lists](/slides/01 Introduction, Stacks, and Lists.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
