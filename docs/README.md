@@ -45,7 +45,7 @@ These are the assignments you will have to hand in during the course:
 
 | Assignment number | Theme |
 | ---- | ---- |
-| 1 | Linked lists and stacks |
+| 1 | [RPN Calculator](/slides/01 Assignment.pdf) |
 | 2 | **Virtual CPU instructions with tail recursion** |
 | 3 | **Map and flatmap** in Lisp |
 | 4 | Elm REST |
