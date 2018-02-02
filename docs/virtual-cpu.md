@@ -8,7 +8,7 @@ there are no instructions for direct memory access.
 
 The virtual cpu can be run with
 ```shell
-$ java -jar VirtualCPU.jar
+$ java -jar VirtualCPU-2.0-jar-with-dependencies.jar
 ```
 
 Registers and flag:
