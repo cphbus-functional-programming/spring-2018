@@ -11,9 +11,10 @@ Exclusively web resources:
 * Lisp: https://common-lisp.net/
 * Haskell: [Learn you a Haskell for great good!](http://learnyouahaskell.com/chapters). Please read chapter 1-3
 
-## Slides
+## Slides and other material
 
 * [01 Introduction, Stacks, and Lists](/slides/01 Introduction, Stacks, and Lists.pdf)
+* [02 Virtual CPU specification](virtual-cpu.md)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
