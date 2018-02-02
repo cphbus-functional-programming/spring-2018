@@ -6,7 +6,7 @@ Instructions are all 8 bit.
 The CPU is optimised for stack operations,
 there are no instructions for direct memory access.
 
-The virtual cpu can be run with
+The virtual cpu can be found in the [code](https://github.com/cphbus-functional-programming/spring-2018/tree/master/code) folder and run with
 ```shell
 $ java -jar VirtualCPU-2.0-jar-with-dependencies.jar
 ```
