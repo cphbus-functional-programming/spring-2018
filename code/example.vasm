@@ -1,0 +1,3 @@
+MAIN:   MOV 3 A
+        MOV 7 B
+        MUL

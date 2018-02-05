@@ -14,6 +14,7 @@ Exclusively web resources:
 ## Slides and other material
 
 * [01 Introduction, Stacks, and Lists](/slides/01 Introduction, Stacks, and Lists.pdf)
+* [02 Recursion and Tail Recursion](/slides/02 Recursion and Tail Recursion.pdf)
 * [02 Virtual CPU specification](virtual-cpu.md)
 
 # Class schedule
@@ -47,7 +48,7 @@ These are the assignments you will have to hand in during the course:
 | Assignment number | Theme |
 | ---- | ---- |
 | 1 | [RPN Calculator](/slides/01 Assignment.pdf) |
-| 2 | **Virtual CPU instructions with tail recursion** |
+| 2 | **[Tail recursion and the virtual CPU](/slides/02 Assignment.pdf)** |
 | 3 | **Map and flatmap** in Lisp |
 | 4 | Elm REST |
 | 5 | **Elm Websocket** chat *client* |
