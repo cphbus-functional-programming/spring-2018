@@ -16,7 +16,7 @@ Exclusively web resources:
 * [01 Introduction, Stacks, and Lists](/slides/01 Introduction, Stacks, and Lists.pdf)
 * [02 Recursion and Tail Recursion](/slides/02 Recursion and Tail Recursion.pdf)
 * [02 Virtual CPU specification](virtual-cpu.md)
-* [03 List](/slides/03 Lisp.pdf)
+* [03 Lisp](/slides/03 Lisp.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
