@@ -30,15 +30,14 @@ All classes are from 8:30 - 12:00.
 |  9 | 26/2 | Higher-order functions | Jens |
 | 10 | 5/3  | Introduction to the Elm architecture | Jens |
 | 10 | 9/3  | Exercise session on Elm | Jens |
-| 11 | 12/3 | Elm commands | Jens |
-| 12 | 19/3 | Elm REST | Jens |
+| 11 | 12/3 | Elm REST | Jens |
+| 12 | 19/3 | Elm commands | Jens |
 | 12 | 23/3 | Exercise session on Elm | Anders |
 | 13 | 26/3 | Elm subscriptions | Anders |
-| 14 | 6/4  | Introduction to Haskell | Anders |
-| 15 | 9/4  | IO and monads in Haskell | Anders |
-| 16 | 16/4 | Concurrency in Haskell | Jens |
-| 16 | 20/4 | Exercise session on Haskell | Jens |
-| 17 | 23/4 | Haskell webservers | Anders |
+| 14 | 6/4  | (All day 8:30 - 16:00) <br/> Introduction to Haskell and IO monads | Anders |
+| 16 | 16/4 | Exercise session on Haskell | Anders |
+| 16 | 20/4 | Haskell webservers | Anders |
+| 17 | 23/4 | Concurrency in Haskell | Jens |
 | 18 | 30/4 | Full-stack functional }:-) | Anders |
 | 19 | 7/5  | -- reserved -- | Anders and Jens |
 | 20 | 14/5 | Recap and exam questions | Anders and Jens |
@@ -48,8 +47,8 @@ These are the assignments you will have to hand in during the course:
 
 | Assignment number | Theme |
 | ---- | ---- |
-| 1 | [RPN Calculator](/slides/01 Assignment.pdf) |
-| 2 | **[Tail recursion and the virtual CPU](/slides/02 Assignment.pdf)** |
+| 1 | [RPN Calculator](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/01%20Assignment.pdf) |
+| 2 | **[Tail recursion and the virtual CPU](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/02%20Assignment.pdf)** |
 | 3 | **Map and flatmap** in Lisp |
 | 4 | Elm REST |
 | 5 | **Elm Websocket** chat *client* |
