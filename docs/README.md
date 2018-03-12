@@ -30,10 +30,9 @@ All classes are from 8:30 - 12:00.
 |  9 | 26/2 | Higher-order functions | Jens |
 | 10 | 5/3  | Introduction to the Elm architecture | Jens |
 | 10 | 9/3  | Exercise session on Elm | Jens |
-| 11 | 12/3 | Elm REST | Jens |
-| 12 | 19/3 | Elm commands | Jens |
+| 11 | 12/3 | Elm REST and commands | Jens |
+| 13 | 19/3 | Elm subscriptions | Jens |
 | 12 | 23/3 | Exercise session on Elm | Anders |
-| 13 | 26/3 | Elm subscriptions | Anders |
 | 14 | 6/4  | (All day 8:30 - 16:00) <br/> Introduction to Haskell and IO monads | Anders |
 | 16 | 16/4 | Exercise session on Haskell | Anders |
 | 16 | 20/4 | Haskell webservers | Anders |
