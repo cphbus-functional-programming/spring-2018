@@ -13,10 +13,13 @@ Exclusively web resources:
 
 ## Slides and other material
 
-* [01 Introduction, Stacks, and Lists](/slides/01 Introduction, Stacks, and Lists.pdf)
-* [02 Recursion and Tail Recursion](/slides/02 Recursion and Tail Recursion.pdf)
-* [02 Virtual CPU specification](virtual-cpu.md)
-* [03 Lisp](/slides/03 Lisp.pdf)
+* [01 Introduction, Stacks, and Lists](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/01%20Introduction%2C%20Stacks%2C%20and%20Lists.pdf)
+* [02 Recursion and Tail Recursion](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/02%20Recursion%20and%20Tail%20Recursion.pdf)
+* [02 Virtual CPU specification](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/virtual-cpu.md)
+* [03 Lisp](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/03%20Lisp.pdf)
+* [04 Higher-order functions](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/04%20Hof.pdf)
+* [05 Elm introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/05%20Elm%20Introduction.pdf)
+* [06 Elm architecture](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Elm%20Architecture.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
