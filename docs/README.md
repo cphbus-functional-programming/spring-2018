@@ -20,6 +20,8 @@ Exclusively web resources:
 * [04 Higher-order functions](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/04%20Hof.pdf)
 * [05 Elm introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/05%20Elm%20Introduction.pdf)
 * [06 Elm architecture](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Elm%20Architecture.pdf)
+* [07 App](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/07%20App.pdf)
+* [08 Haskell introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/08%20Haskell%20introduction.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
