@@ -22,7 +22,7 @@ Exclusively web resources:
 * [06 Elm architecture](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Elm%20Architecture.pdf)
 * [07 App](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/07%20App.pdf)
 * [08 Haskell introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/08%20Haskell%20introduction.pdf)
-* [09 Haskell features](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/08%20Haskell%20features.pdf)
+* [09 Haskell features](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/09%20Haskell%20features.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
