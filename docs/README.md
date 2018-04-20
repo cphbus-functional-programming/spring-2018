@@ -23,6 +23,7 @@ Exclusively web resources:
 * [07 App](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/07%20App.pdf)
 * [08 Haskell introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/08%20Haskell%20introduction.pdf)
 * [09 Haskell features](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/09%20Haskell%20features.pdf)
+* [10 Haskell Applications](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/10%20Haskell%20Applications.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
@@ -40,9 +41,9 @@ All classes are from 8:30 - 12:00.
 | 13 | 19/3 | Elm subscriptions | Jens |
 | 12 | 23/3 | Exercise session on Elm | Anders |
 | 14 | 6/4  | (All day 8:30 - 16:00) <br/> Introduction to Haskell and IO monads | Anders |
-| 16 | 16/4 | Exercise session on Haskell | Anders |
-| 16 | 20/4 | Haskell webservers | Anders |
-| 17 | 23/4 | Concurrency in Haskell | Jens |
+| 16 | 16/4 | Haskell features | Anders |
+| 16 | 20/4 | Haskell Assignment | Anders |
+| 17 | 23/4 | Haskell web servers | Anders |
 | 18 | 30/4 | Full-stack functional }:-) | Anders |
 | 19 | 7/5  | -- reserved -- | Anders and Jens |
 | 20 | 14/5 | Recap and exam questions | Anders and Jens |
