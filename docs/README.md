@@ -24,6 +24,7 @@ Exclusively web resources:
 * [08 Haskell introduction](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/08%20Haskell%20introduction.pdf)
 * [09 Haskell features](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/09%20Haskell%20features.pdf)
 * [10 Haskell Applications](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/10%20Haskell%20Applications.pdf)
+* [11 Haskell Web Server](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/11%20Haskell%20Webserver.pdf)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
