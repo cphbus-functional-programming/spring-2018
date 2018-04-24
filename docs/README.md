@@ -59,7 +59,7 @@ These are the assignments you will have to hand in during the course:
 | 3 | **Map and flatmap** in Lisp |
 | 4 | Elm REST |
 | 5 | **Elm Websocket** chat *client* |
-| 6 | Haskell application
+| 6 | [Haskell application](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Assignment.pdf)
 | 7 | **Parallel Haskell webserver** |
 | 8 | Full stack  with support for the chat protocol in assignment 6 |
 
