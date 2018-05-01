@@ -46,8 +46,8 @@ All classes are from 8:30 - 12:00.
 | 16 | 20/4 | Haskell Assignment | Anders |
 | 17 | 23/4 | Haskell web servers | Anders |
 | 18 | 30/4 | Functional concurrency and parallelism | Anders |
-| 19 | 4/5  | Full-stack functional, Elm part }:-) | Anders |
-| 20 | 7/5  | Full-stack functional, Haskell part }:-) | Anders |
+| 19 | 4/5  | Full-stack functional, Elm part }:-) | Anders and Jens|
+| 20 | 7/5  | Full-stack functional, Haskell part }:-) | Jens and Anders |
 | 21 | 14/5 | Recap and exam questions | Anders and Jens |
 
 # Assignments
