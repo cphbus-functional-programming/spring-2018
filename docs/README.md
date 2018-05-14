@@ -30,6 +30,7 @@ Exclusively web resources:
 * [13 Full Stack Functional - Elm](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/13%20Full%20Stack%20Functional%20-%20Elm.pdf)
 * [14 Full Stack Functional - Haskell](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/14%20Full%20Stack%20Functional%20-%20Haskell.pdf)
   - [IntMap](http://hackage.haskell.org/package/containers-0.5.11.0/docs/Data-IntMap-Strict.html)
+  - [MVar](https://hackage.haskell.org/package/base-4.9.1.0/docs/Control-Concurrent-MVar.html)
 
 # Class schedule
 All classes are from 8:30 - 12:00.
