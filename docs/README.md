@@ -7,6 +7,7 @@ the course.
 ## Reading material
 Exclusively web resources:
 
+* Virtual CPU: [virtual-cpu.md]("virtual-cpu.md") 
 * Elm: http://elm-lang.org/
 * Lisp: https://common-lisp.net/
 * Haskell: [Learn you a Haskell for great good!](http://learnyouahaskell.com/chapters). Please read chapter 1-3
