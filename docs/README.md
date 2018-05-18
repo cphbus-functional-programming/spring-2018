@@ -65,11 +65,10 @@ These are the assignments you will have to hand in during the course:
 | 1 | [RPN Calculator](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/01%20Assignment.pdf) |
 | 2 | **[Tail recursion and the virtual CPU](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/02%20Assignment.pdf)** |
 | 3 | **Map and flatmap** in Lisp |
-| 4 | Elm REST |
-| 5 | **Elm Websocket** chat *client* |
+| 4 | Elm Subscriptions |
+| 5 | **REST client** in Elm |
 | 6 | [Haskell application](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Assignment.pdf)
-| 7 | **Parallel Haskell webserver** |
-| 8 | Full stack  with support for the chat protocol in assignment 6 |
+| 8 | **Full stack functional** done in class |
 
 The assignments in **bold** are mandatory and is **required** to attend the exam.
 
@@ -86,4 +85,4 @@ Remember that the assignments above in **bold** are mandatory and is **required*
 # Exam
 You will be examinated orally. You will have to present one of the four major assignments (marked in bold above). So out of the four assignments, you have to pick one. From there we will have a discussion about the course content. You have **10 minutes** to present your assignment. Then we will ask you questions for around 7-10 minutes. We will naturally ask into other topics, but the presentation will be the starting point.
 
-The questions for the exams will be published. An example from 2017 can be found here: [https://github.com/cphbus-functional-programming/general/blob/master/exam.md](https://github.com/cphbus-functional-programming/general/blob/master/exam.md)
+Questions within the four subjects would include: [Exam subjects](exam.md)
