@@ -110,5 +110,5 @@ Execute
 Compile and run with:
 ```
 $ mvn compile
-$ java -jar target/VirtualCPU-2.0-jar-with-dependencies.jar
+$ java -jar VirtualCPU-2.1-jar-with-dependencies.jar
 ```
