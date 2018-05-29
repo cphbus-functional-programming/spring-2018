@@ -8,7 +8,7 @@ there are no instructions for direct memory access.
 
 The virtual cpu can be found in the [code](https://github.com/cphbus-functional-programming/spring-2018/tree/master/code) folder and run with
 ```shell
-$ java -jar VirtualCPU-2.0-jar-with-dependencies.jar
+$ java -jar VirtualCPU-2.1-jar-with-dependencies.jar
 ```
 
 Registers and flag:
@@ -104,11 +104,3 @@ make it possible to reduce the conditionals to `EQ`, `LT`, `GT`,
 and `ZERO` or something similar. Three bits for the offset,
 allowing 7 arguments, might be over the top.
 Reducing it to two bits, would allow for some other instructions.
-
-Execute
--------
-Compile and run with:
-```
-$ mvn compile
-$ java -jar target/VirtualCPU-2.0-jar-with-dependencies.jar
-```
