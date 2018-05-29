@@ -1,6 +1,8 @@
 # General
 This repository contains presentation PDFs and general information about the course.
 
+A more formal description about the course contents and learning outcomes are available here: [Course description and formal requirements](course-description.pdf).
+
 **Please** read the following with care. Failure to do so may prevent you from completing
 the course.
 
