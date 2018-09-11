@@ -66,11 +66,11 @@ These are the assignments you will have to hand in during the course:
 | ---- | ---- |
 | 1 | [RPN Calculator](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/01%20Assignment.pdf) |
 | 2 | -> **[Tail recursion and the virtual CPU](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/02%20Assignment.pdf)** |
-| 3 | -> **Map and flatmap** in Lisp |
-| 4 | Elm Subscriptions |
-| 5 | -> **REST client** in Elm |
+| 3 | -> **Map and flatmap** in Lisp (description found in slides 04)|
+| 4 | Elm Subscriptions (description in slides 07)|
+| 5 | -> **REST client** in Elm (description found in slides 06)|
 | 6 | [Haskell application](https://github.com/cphbus-functional-programming/spring-2018/blob/master/docs/slides/06%20Assignment.pdf)
-| 7 | -> **Full stack functional** done in class |
+| 7 | -> **Full stack functional** done in class (description in slides 13 and 14|
 
 The assignments in **bold** are mandatory and is **required** to attend the exam.
 
